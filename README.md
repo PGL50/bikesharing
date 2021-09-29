@@ -19,6 +19,38 @@
 
 <br/>
 
+## Trips by Weekday for Each Hour
+<br/>
 
+![Trips weekday/hour](/Resources/Trips_weekday_hour.png) 
 
+<br/>
+
+## Trips by Gender (Weekday per Hour)
+<br/>
+
+![Trips weekday/hour/gender](/Resources/Trips_weekday_hour_gender.png) 
+
+<br/>
+
+## Trips by Gender (Weekday per Hour)
+<br/>
+
+![Trips weekday/gender](/Resources/User_trips_gender_weekday.png) 
+
+<br/>
+
+## Overall Citibike data
+<br/>
+
+![Overall data](/Resources/Overall.png) 
+
+<br/>
+
+## Citibike start location
+<br/>
+
+![Overall data](/Resources/Locations.png) 
+
+<br/>
 [Link to Tableau Public Dashboard] (https://public.tableau.com/views/NYCBikeChallenge14/NYCCitibikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
