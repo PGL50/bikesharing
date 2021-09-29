@@ -93,16 +93,16 @@
 
 <br/>
 
-![Calculated fields](/Resources/distanceAverage.png) 
+![Ave distance](/Resources/distanceAverage.png) 
 
 <br/>
 
 ## Additional Viz #2
-#### The chart below shows the average distance by user type and length of time the bike was checked out. The Trip duration filter can choose multiple lenths to look by hours. The vast majority of the trips are less than an hour sot the map is a mess of lines. This visualization is getting at how far away riders dropped off their bikes after a long day. Thios could help inform the Des Moines business if stations needed to be place fara aprt from each other. The viz below has green dots for start location and red dots for end location. As seen below, ever trip lasting 21+ hours are not dropping bikes off too far from where they checked them out. This is encouraging for Des Moines to know stations don't have to be placed too far out within the city.
+#### The chart below shows the average distance by user type and length of time the bike was checked out. The Trip duration filter can choose multiple lenths to look by hours. The vast majority of the trips are less than an hour sot the map is a mess of lines. This visualization is getting at how far away riders dropped off their bikes after a long day. Thios could help inform the Des Moines business if stations needed to be place fara aprt from each other. The viz below has green dots for start location and red dots for end location. As seen below, ever trip lasting 21+ hours are not dropping bikes off too far from where they checked them out. This is encouraging for Des Moines to know stations don't have to be placed too far out within the city even for long duration trips.
 
 <br/>
 
-![Calculated fields](/Resources/distance.png) 
+![Distance](/Resources/distance.png) 
 
 <br/>
 
