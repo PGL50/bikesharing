@@ -3,10 +3,19 @@
 
 # Results
 
-1. Checkout Times for Users
+#### Each visualization has a summary beneath
+
+## Checkout Times for Users
 <br/>
 
-![Check out times](./Resources/Check_out_times_for_users.png) 
+![Check out times](/Resources/Checkout_times_for_users.png) 
+
+<br/>
+
+## Checkout Times by Gender
+<br/>
+
+![Check out times gender](/Resources/Checkout_times_gender.png) 
 
 <br/>
 
